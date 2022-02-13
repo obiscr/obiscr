@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### [ExcelReader](https://github.com/obiscr/ExcelReader)
+[![Build](https://github.com/obiscr/ExcelReader/actions/workflows/build.yml/badge.svg)](https://github.com/obiscr/ExcelReader/actions/workflows/build.yml)
+[![Version](https://img.shields.io/jetbrains/plugin/v/14722-excelreader.svg)](https://plugins.jetbrains.com/plugin/14722-excelreader)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/14722-excelreader.svg)](https://plugins.jetbrains.com/plugin/14722-excelreader)
+
 <!--
 **obiscr/obiscr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
