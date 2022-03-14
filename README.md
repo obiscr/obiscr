@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hire me 👋
+
+I am available for freelance programming, and jetbrains plugin technology consulting. Contact me for a resume.
 
 ### [ExcelReader](https://github.com/obiscr/ExcelReader)
 [![Build](https://github.com/obiscr/ExcelReader/actions/workflows/build.yml/badge.svg)](https://github.com/obiscr/ExcelReader/actions/workflows/build.yml)
