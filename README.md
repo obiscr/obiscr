@@ -16,7 +16,7 @@ I am available for freelance programming, and jetbrains plugin technology consul
 ### [FastShell is coming soon, stay tuned!](https://obiscr.github.io/FastShell/)
 <!-- [![Version](https://img.shields.io/jetbrains/plugin/v/18663-exceleditor.svg)](https://plugins.jetbrains.com/plugin/18663-exceleditor)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/18663-exceleditor.svg)](https://plugins.jetbrains.com/plugin/18663-exceleditor) -->
-[![Slack](https://img.shields.io/badge/Slack-%23ExcelEditor-blue?logo=Slack)](https://observercreator.slack.com/)
+[![Slack](https://img.shields.io/badge/Slack-%23FastShell-blue?logo=Slack)](https://observercreator.slack.com/)
 
 
 <!--
