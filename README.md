@@ -1,6 +1,6 @@
 ### Hire me 👋
 
-I am available for freelance programming, and jetbrains plugin technology consulting. [Contact me](mailto:piercebrands@gmail.com) for a resume.
+I am available for freelance programming, and jetbrains plugin technology consulting. [Contact me](mailto:wuzi@obiscr.com) for a resume.
 
 ### [ExcelReader](https://github.com/obiscr/ExcelReader)
 [![Build](https://github.com/obiscr/ExcelReader/actions/workflows/build.yml/badge.svg)](https://github.com/obiscr/ExcelReader/actions/workflows/build.yml)
