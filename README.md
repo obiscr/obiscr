@@ -18,6 +18,11 @@ I am available for freelance programming, and jetbrains plugin technology consul
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/18971-fastshell.svg)](https://plugins.jetbrains.com/plugin/18971-fastshell)
 [![Slack](https://img.shields.io/badge/Slack-%23FastShell-blue?logo=Slack)](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
 
+### [Note](https://note.obiscr.com/)
+[![Version](https://img.shields.io/npm/v/@obiscr/note)](https://www.npmjs.com/package/@obiscr/note)
+[![Downloads](https://img.shields.io/npm/dt/@obiscr/note)](https://www.npmjs.com/package/@obiscr/note)
+[![Slack](https://img.shields.io/badge/Slack-%23FastShell-blue?logo=Slack)](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
+
 
 <!--
 **obiscr/obiscr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
