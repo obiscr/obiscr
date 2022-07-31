@@ -3,6 +3,7 @@
 I am available for freelance programming, and jetbrains plugin technology consulting. [Contact me](mailto:wuzi@obiscr.com) for a resume.
 
 ### [ExcelReader](https://docs.obiscr.com/article/ER)
+[![OSCS](https://www.oscs1024.com/platform/badge/obiscr/ExcelReader.svg)](https://www.oscs1024.com/cd/1538016827164979200?sign=eb6edf96)
 [![Build](https://github.com/obiscr/ExcelReader/actions/workflows/build.yml/badge.svg)](https://github.com/obiscr/ExcelReader/actions/workflows/build.yml)
 [![Version](https://img.shields.io/jetbrains/plugin/v/14722-excelreader.svg)](https://plugins.jetbrains.com/plugin/14722-excelreader)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/14722-excelreader.svg)](https://plugins.jetbrains.com/plugin/14722-excelreader)
