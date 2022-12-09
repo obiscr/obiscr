@@ -1,6 +1,7 @@
-### Hire me 👋
+### About me 👋
 
-I am available for freelance programming, and jetbrains plugin technology consulting. [Contact me](mailto:wuzi@obiscr.com) for a resume.
+- 🔭 I am available for freelance programming, 
+- 🌱 I am currently maintaining the following plugins.
 
 ### [ExcelReader](https://docs.obiscr.com/article/ER)
 [![OSCS](https://www.oscs1024.com/platform/badge/obiscr/ExcelReader.svg)](https://www.oscs1024.com/cd/1538016827164979200?sign=eb6edf96)
