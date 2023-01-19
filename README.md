@@ -28,6 +28,14 @@
 [![Version](https://img.shields.io/npm/v/@obiscr/note)](https://www.npmjs.com/package/@obiscr/note)
 [![Downloads](https://img.shields.io/npm/dt/@obiscr/note)](https://www.npmjs.com/package/@obiscr/note)
 
+### Business cooperation
+
+📢📢📢
+目前所有插件拥有超过70万的下载量，如需广告推广，请联系：wuzi@obiscr.com
+
+<img src="https://user-images.githubusercontent.com/28687074/213332528-695ae024-c496-424a-bc1a-8889872d5546.png" width=600 alt="" />
+
+
 <!--
 **obiscr/obiscr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
