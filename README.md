@@ -6,7 +6,7 @@
 ### Support / Donate
 
 - **PayPal**: [https://paypal.me/obiscr](https://paypal.me/obiscr)
-- **Buy me a coffee**: [https://buymeacoffee.com/obiscr](https://buymeacoffee.com/obiscr
+- **Buy me a coffee**: [https://buymeacoffee.com/obiscr](https://buymeacoffee.com/obiscr)
 
 <img width=360 alt="支付宝/微信" src="https://user-images.githubusercontent.com/28687074/223671404-d80e1215-74d5-49b5-9e1a-13fcb1de9d4a.png" />
 
