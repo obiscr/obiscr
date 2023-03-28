@@ -35,12 +35,9 @@
 [![Version](https://img.shields.io/npm/v/@obiscr/note)](https://www.npmjs.com/package/@obiscr/note)
 [![Downloads](https://img.shields.io/npm/dt/@obiscr/note)](https://www.npmjs.com/package/@obiscr/note)
 
-### Business cooperation
+### WeChat
 
-📢📢📢
-目前所有插件拥有超过80万的用户，如需广告推广，请联系：wuzi@obiscr.com
-
-<img src="https://user-images.githubusercontent.com/28687074/213332528-695ae024-c496-424a-bc1a-8889872d5546.png" width=400 alt="" />
+<img src="https://user-images.githubusercontent.com/28687074/224671786-ecb449a1-4901-4690-bef5-b8d03a8120fa.png" width=400 alt="" />
 
 
 <!--
