@@ -30,7 +30,7 @@
 ### [ChatGPT](https://chatgpt.en.obiscr.com/)
 [![Version](https://img.shields.io/jetbrains/plugin/v/20603-chatgpt.svg)](https://plugins.jetbrains.com/plugin/20603-chatgpt)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/20603-chatgpt.svg)](https://plugins.jetbrains.com/plugin/20603-chatgpt)
-[![Slack](https://img.shields.io/badge/Slack-%23ChatGPT-blue?logo=Slack)](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
+[![Slack](https://img.shields.io/badge/Slack-%23ChatGPTGold-blue?logo=Slack)](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
 
 ### [ChatGPTGold](https://chatgpt.gold/)
 [![Version](https://img.shields.io/jetbrains/plugin/v/21558-chatgptgold.svg)](https://plugins.jetbrains.com/plugin/21558-chatgptgold)
