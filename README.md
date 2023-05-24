@@ -3,19 +3,6 @@
 - 🔭 I am available for freelance programming, 
 - 🌱 I am currently maintaining the following plugins.
 
-### Support / Donate
-
-- **PayPal**: [https://paypal.me/obiscr](https://paypal.me/obiscr)
-- **Buy me a coffee**: [https://buymeacoffee.com/obiscr](https://buymeacoffee.com/obiscr)
-
-<img width=360 alt="支付宝/微信" src="https://user-images.githubusercontent.com/28687074/223671404-d80e1215-74d5-49b5-9e1a-13fcb1de9d4a.png" />
-
-### [ExcelReader](https://docs.obiscr.com/article/ER)
-[![OSCS](https://www.oscs1024.com/platform/badge/obiscr/ExcelReader.svg)](https://www.oscs1024.com/cd/1538016827164979200?sign=eb6edf96)
-[![Version](https://img.shields.io/jetbrains/plugin/v/14722-excelreader.svg)](https://plugins.jetbrains.com/plugin/14722-excelreader)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/14722-excelreader.svg)](https://plugins.jetbrains.com/plugin/14722-excelreader)
-[![Slack](https://img.shields.io/badge/Slack-%23ExcelReader-blue?logo=Slack)](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
-
 ### [ExcelReader](https://docs.obiscr.com/article/ER)
 [![OSCS](https://www.oscs1024.com/platform/badge/obiscr/ExcelReader.svg)](https://www.oscs1024.com/cd/1538016827164979200?sign=eb6edf96)
 [![Version](https://img.shields.io/jetbrains/plugin/v/14722-excelreader.svg)](https://plugins.jetbrains.com/plugin/14722-excelreader)
