@@ -28,11 +28,6 @@
 [![Version](https://img.shields.io/npm/v/@obiscr/note)](https://www.npmjs.com/package/@obiscr/note)
 [![Downloads](https://img.shields.io/npm/dt/@obiscr/note)](https://www.npmjs.com/package/@obiscr/note)
 
-### WeChat
-
-<img src="https://user-images.githubusercontent.com/28687074/224671786-ecb449a1-4901-4690-bef5-b8d03a8120fa.png" width=400 alt="" />
-
-
 <!--
 **obiscr/obiscr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
