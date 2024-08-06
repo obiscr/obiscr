@@ -3,6 +3,10 @@
 - 🔭 I am available for freelance programming, 
 - 🌱 I am currently maintaining the following plugins.
 
+### Hire me
+
+You can request a cv from me via [wuzi@obiscr.com](mailto:wuzi@obiscr.com)
+
 ### [ExcelReader](https://excelreader.obiscr.com)
 [![OSCS](https://www.oscs1024.com/platform/badge/obiscr/ExcelReader.svg)](https://www.oscs1024.com/cd/1538016827164979200?sign=eb6edf96)
 [![Version](https://img.shields.io/jetbrains/plugin/v/14722-excelreader.svg)](https://plugins.jetbrains.com/plugin/14722-excelreader)
