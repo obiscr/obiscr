@@ -3,6 +3,9 @@
 - 🔭 I am available for freelance programming, 
 - 🌱 I am currently maintaining the following plugins.
 
+### [Maia](https://maia.obiscr.com)
+![Docker Image Version](https://img.shields.io/docker/v/obiscr/maia?style=flat&label=Docker&color=%23305fe0&link=https%3A%2F%2Fmaia.obiscr.com)
+
 ### [ExcelReader](https://excelreader.obiscr.com)
 [![OSCS](https://www.oscs1024.com/platform/badge/obiscr/ExcelReader.svg)](https://www.oscs1024.com/cd/1538016827164979200?sign=eb6edf96)
 [![Version](https://img.shields.io/jetbrains/plugin/v/14722-excelreader.svg)](https://plugins.jetbrains.com/plugin/14722-excelreader)
@@ -18,15 +21,6 @@
 [![Version](https://img.shields.io/jetbrains/plugin/v/20603-chatgpt.svg)](https://plugins.jetbrains.com/plugin/20603-chatgpt)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/20603-chatgpt.svg)](https://plugins.jetbrains.com/plugin/20603-chatgpt)
 [![Slack](https://img.shields.io/badge/Slack-%23ChatGPTGold-blue?logo=Slack)](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
-
-### [FastShell](https://fastshell.obiscr.com)
-[![Version](https://img.shields.io/jetbrains/plugin/v/18971-fastshell.svg)](https://plugins.jetbrains.com/plugin/18971-fastshell)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/18971-fastshell.svg)](https://plugins.jetbrains.com/plugin/18971-fastshell)
-[![Slack](https://img.shields.io/badge/Slack-%23FastShell-blue?logo=Slack)](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
-
-### [Note](https://note.obiscr.com)
-[![Version](https://img.shields.io/npm/v/@obiscr/note)](https://www.npmjs.com/package/@obiscr/note)
-[![Downloads](https://img.shields.io/npm/dt/@obiscr/note)](https://www.npmjs.com/package/@obiscr/note)
 
 <!--
 **obiscr/obiscr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
